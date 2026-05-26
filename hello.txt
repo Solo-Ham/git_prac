@@ -1,6 +1,7 @@
 Hello World
 trying branch alone
 Solving confusion
+hi
 This is a branch test
 more to learn
 more to learn
