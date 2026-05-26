@@ -1,4 +1,10 @@
 Hello World
 trying branch alone
 Solving confusion
+<<<<<<< HEAD
 hi
+=======
+This is a branch test
+more to learn
+more to learn
+>>>>>>> 4be8b5b8bc5fdc2fd1121d431f41152006f9e024
